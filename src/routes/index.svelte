@@ -1,2 +1,22 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import logo from '../../static/white-logo.png';
+</script>
+
+
+<header>
+    <img src={logo} alt="tbe logo" class="main-logo" />
+    <div class="desktop-header">
+    <h1>The _____ Experiment</h1>
+    </div>
+
+    <div class="sub-header">
+<h2>New Music Ensemble</h2>
+    </div>
+
+
+<div class="tagline">
+<h3>Pushing The Boundaries</h3>
+</div>
+</header>
+
+
