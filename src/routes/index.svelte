@@ -2,7 +2,7 @@
     import logo from '../../static/white-logo.png';
 </script>
 
-
+<body>
 <header>
     <img src={logo} alt="tbe logo" class="main-logo" />
     <div class="desktop-header">
@@ -18,5 +18,5 @@
 <h3>Pushing The Boundaries</h3>
 </div>
 </header>
-
+</body>
 

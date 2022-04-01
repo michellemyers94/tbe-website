@@ -1,7 +1,13 @@
-<h1>Hello</h1>
+<body>
 
-<style>
+</body>
+
+
+    <style>
+
     body {
-        background: black;
+        background: #292828;
+        width: 100vw;
+        height: 100vh;
     }
-</style>
+    </style>

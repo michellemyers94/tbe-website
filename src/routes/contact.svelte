@@ -1,4 +1,13 @@
-<div class="contact">
+<body>
 
-<h1>Hello</h1>
-</div>
+</body>
+
+
+<style>
+
+    body {
+        background: #292828;
+        width: 100vw;
+        height: 100vh;
+    }
+</style>
