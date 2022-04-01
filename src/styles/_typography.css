@@ -25,7 +25,7 @@ nav a {
 }
 
 nav a.special {
-    color: #eb03ff;
+    color: #bd00ff;
 }
 
 nav a.special:hover {
@@ -33,7 +33,7 @@ nav a.special:hover {
 }
 
 nav a:hover {
-    color: #eb03ff;
+    color: #bd00ff;
 }
 
 nav {
@@ -64,7 +64,7 @@ h3 {
 .desktop-header {
     display: block;
     width: 100vw;
-    margin: -30px;
+
     z-index: 4;
 }
 
@@ -96,4 +96,8 @@ div.tagline {
 
     }
 
+}
+
+h4 {
+    margin: 0;
 }
