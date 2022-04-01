@@ -6,6 +6,7 @@ This repo contains the code for the new music ensemble, The _____ Experiment's w
 ### Stack
 This site was coded using [SvelteKit](https://kit.svelte.dev) and contains images owned by Michelle Myers-Cusick.
 
+
 ### Process
 The first part completed was making a sitemap and flow chart of how the ensemble wanted the site to be laid out, and
 features were wanted on the site.

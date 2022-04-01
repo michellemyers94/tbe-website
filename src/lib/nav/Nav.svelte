@@ -4,7 +4,7 @@
     <div class="nav_wrap">
         <nav>
             <ul>
-                <a href="."><img src="/static/black-logo.png"  class="nav-logo"/></a>
+                <a href="."><img src="/../static/black-logo.png"  class="nav-logo"/></a>
                 <li><a href=".">home</a></li>
                 <li><a href="/about">about</a></li>
                 <li><a href="/media">media</a></li>
