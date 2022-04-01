@@ -23,7 +23,7 @@
 <style>
     body {
 
-        background: url("../static/mobile-background.png") no-repeat center center fixed;
+        background: url("/static/mobile-background.png") no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -37,7 +37,7 @@
     @media only screen and (min-width: 1025px) {
         body {
 
-            background: url("../static/desktop-background.png") no-repeat center center fixed;
+            background: url("/static/desktop-background.png") no-repeat center center fixed;
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
