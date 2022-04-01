@@ -1,40 +1,17 @@
-# create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Creating a project
+## The Blank Experiment
+This repo contains the code for the new music ensemble, The _____ Experiment's website, coded by Michelle Myers-Cusick (me).
 
-If you're seeing this, you've probably already done this step. Congrats!
+### Stack
+This site was coded using [SvelteKit](https://kit.svelte.dev) and contains images owned by Michelle Myers-Cusick.
 
-```bash
-# create a new project in the current directory
-npm init svelte@next
+### Process
+The first part completed was making a sitemap and flow chart of how the ensemble wanted the site to be laid out, and
+features were wanted on the site.
 
-# create a new project in my-app
-npm init svelte@next my-app
-```
+From there, I went to work to on creating wireframes and designing the UI for the site using Adobe XD.
+Click [here](https://xd.adobe.com/view/bea55647-e3d0-4c2d-a457-e93057e8dada-ebf6/) for the mobile UI. 
 
-> Note: the `@next` is temporary
 
-## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
