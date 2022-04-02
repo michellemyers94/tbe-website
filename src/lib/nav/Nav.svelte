@@ -2,17 +2,26 @@
 
 
     <div class="nav_wrap">
-        <nav>
-            <ul>
-                <a href="."><img src="/black-logo.png"  class="nav-logo"/></a>
-                <li><a href=".">home</a></li>
-                <li><a href="/about">about</a></li>
-                <li><a href="/media">media</a></li>
-                <li><a href="/podcast">podcast</a></li>
-                <li><a href="/subscribe">subscribe</a></li>
-                <li><a href="/contact">contact us</a></li>
-                <li><a href="/composer-bootcamp" class="special">composer bootcamp</a></li>
-            </ul>
+        <nav class="grid">
+
+               <div class="1"><a href="."><img src="/black-logo.png"  class="nav-logo"/></a></div>
+            <div class="2"></div>
+            <div class="3"></div>
+            <div class="4"></div>
+                <div class="5"><a href=".">home</a></div>
+                    <div class="6"><a href="/about">about</a></div>
+                        <div class="7"><a href="/media">media</a></div>
+                            <div class="8"><a href="/podcast">podcast</a></div>
+                                <div class="9"><a href="/subscribe">subscribe</a></div>
+                                    <div class="10"><a href="/contact">contact us</a></div>
+                <div class="11"><a href="/composer-bootcamp" class="special">composer bootcamp</a></div>
+            <div class="12"></div>
+            <div class="13"></div>
+            <div class="14"></div>
+            <div class="15"></div>
+            <div class="16"></div>
+
         </nav>
     </div>
+
 </header>

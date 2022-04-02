@@ -1,9 +1,6 @@
-<body>
+<script>
+    import Fa from 'svelte-fa'
+    import { faFlag } from '@fortawesome/free-solid-svg-icons'
+</script>
 
-</body>
-
-
-<style>
-
-
-</style>
+<Fa icon={faFlag} /> Flag
