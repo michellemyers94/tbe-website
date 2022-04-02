@@ -4,8 +4,8 @@
     <div class="nav_wrap">
         <nav class="grid">
 
-               <div class="1"><a href="."><img src="/black-logo.png"  class="nav-logo"/></a></div>
-            <div class="2"></div>
+               <div class="grid-logo"><a href="."><img src="/black-logo.png"  class="nav-logo"/></a></div>
+
             <div class="3"></div>
             <div class="4"></div>
                 <div class="5"><a href=".">home</a></div>

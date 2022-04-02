@@ -1,13 +1,16 @@
 
-
 .main-logo {
     display: none;
+
 }
-@media only screen and (max-width: 786px) {
+
+@media only screen and (max-width: 1025px) {
 
     .main-logo {
         display: block;
-        width: 50vw;
+        text-align: center;
+        width: 45%;
+        margin: 0 auto;
 
     }
 }

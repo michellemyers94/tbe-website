@@ -1,24 +1,12 @@
+<div class="tablet">
+    <div class="grid-logo"><a href="."><img src="/black-logo.png"  class="nav-logo"/></a></div>
 
-<!--<div id="myNav" class="overlay">-->
-<!--    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>-->
-<!--    <div class="overlay-content">-->
-<!--        <a href="#">About</a>-->
-<!--        <a href="#">Services</a>-->
-<!--        <a href="#">Clients</a>-->
-<!--        <a href="#">Contact</a>-->
-<!--    </div>-->
-<!--</div>-->
-
-
-<!--    <script>-->
-<!--        function openNav() {-->
-<!--            document.getElementById("myNav").style.width = "100%";-->
-<!--        }-->
-
-<!--        function closeNav() {-->
-<!--            document.getElementById("myNav").style.width = "0%";-->
-<!--        }-->
-<!--    </script>-->
-
-
-BOOBS
+    <div class="3"><a href=".">home</a></div>
+    <div class="4"><a href="/about">about</a></div>
+    <div class="5"><a href="/media">media</a></div>
+    <div class="6"><a href="/podcast">podcast</a></div>
+    <div class="7"><a href="/subscribe">subscribe</a></div>
+    <div class="8"><a href="/contact">contact us</a></div>
+    <div class="9"><a href="/composer-bootcamp" class="special">composer bootcamp</a></div>
+    <div class="10"></div>
+</div>
