@@ -5,7 +5,7 @@
 <body>
 <header>
     <img src={logo} alt="tbe logo" class="main-logo" />
-    <h1>The _____ Experiment</h1>
+    <h1 class="homepage">The _____ Experiment</h1>
 
     <div class="sub-header">
 <h2>New Music Ensemble</h2>

@@ -94,6 +94,7 @@ header {
 
 h1 {
     font-size: 5vw;
+    text-align: center;
 
 }
 
@@ -120,7 +121,7 @@ div.tagline {
 
 
 @media only screen and (max-width: 1025px) {
-    h1 {
+    h1.homepage {
         display: none;
     }
     h2  {
@@ -147,7 +148,7 @@ h4 {
         display: none;
     }
 
-    h1 {
+    h1.homepage {
         display: none;
     }
 
