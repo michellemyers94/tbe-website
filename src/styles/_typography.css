@@ -85,6 +85,7 @@ nav a:hover {
 img.nav-logo {
     width: 4em;
 
+
 }
 header {
     text-align: center;
@@ -123,13 +124,13 @@ div.tagline {
         display: none;
     }
     h2  {
-        margin-top: -8%;
+
         font-size: 4vmin;
     }
 
 
     h3 {
-        margin-top: 20%;
+        margin-top: 25%;
         font-size: 8vmin;
     }
 }
@@ -152,7 +153,8 @@ h4 {
 
     h2 {
         font-size: 5vw;
-        margin-top: -3%;
+        margin-top: 4%;
+
     }
     h3 {
         margin-top: 50%;
