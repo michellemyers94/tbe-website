@@ -1,5 +1,5 @@
 <body>
-<h4>Composer Bootcamp</h4>
+<h4 class="composer-bootcamp">Composer Bootcamp</h4>
 </body>
 
 

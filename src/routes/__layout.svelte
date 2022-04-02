@@ -15,7 +15,9 @@
     <NavMobile />
 </div>
 
-
+<div class="footer">
+    <p>&copy; The _____ Experiment, LLC 2022</p>
+</div>
 
 <slot />
 
