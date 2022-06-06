@@ -2,8 +2,12 @@
     import Nav from '$lib/nav/Nav.svelte';
     import "../app.css";
     import NavMobile from "$lib/nav/NavMobile.svelte";
+    import { reveal, setDefaultOptions } from 'svelte-reveal'
 
-
+    setDefaultOptions({
+        easing: 'easeOutCubic',
+        duration: 500
+    })
 
 </script>
 
@@ -14,6 +18,8 @@
 <div class="nav-mobile">
     <NavMobile />
 </div>
+
+
 
 <div class="footer">
     <p>&copy; The _____ Experiment, LLC 2022</p>
