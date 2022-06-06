@@ -1,0 +1,19 @@
+nav {
+    display: none;
+}
+
+nav.grid {
+    display: none;
+}
+
+.tablet {
+    display: none;
+}
+
+.nav-desktop {
+    display: none;
+}
+
+.nav-logo {
+    display: none;
+}

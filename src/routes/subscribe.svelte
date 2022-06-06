@@ -1,9 +1,10 @@
 <script>
     import "../styles/_background.css"
+    import { reveal } from 'svelte-reveal';
 </script>
 
 <body>
-<h4>Subscribe</h4>
+<h4 use:reveal={{ delay: 50 }}>Subscribe</h4>
 </body>
 
 <style>
