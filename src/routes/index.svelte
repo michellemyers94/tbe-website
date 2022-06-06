@@ -1,4 +1,5 @@
 <script>
+    import "../styles/_homepage-background.css";
     import logo from '../../static/white-logo.png';
     import { reveal } from 'svelte-reveal';
 </script>
