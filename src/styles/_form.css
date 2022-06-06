@@ -1,0 +1,71 @@
+
+input {
+    display: block;
+    margin: .5% auto 0;
+    width: 20vw;
+    height: 3vh;
+    font-family: bebas-neue, sans-serif;
+
+}
+
+textarea.submit-form {
+    display: block;
+    margin: .5% auto 0;
+    font-family: sans-serif;
+    width: 20vw;
+    height: 8vh;
+
+}
+
+
+input[type=submit]{
+    background-color: #BB86FC;
+    border: none;
+}
+
+input[type=submit]:hover {
+    background-color: cyan;
+}
+
+
+div.success-message {
+    display: block;
+    margin: 0 auto;
+}
+
+
+@media screen and (max-width: 798px) {
+    input {
+        width: 80vw;
+        margin: 4% auto 0;
+    }
+
+    textarea.submit-form {
+        width: 80vw;
+        margin: 4% auto 0;
+    }
+
+    input[type=submit] {
+        height: 4vh;
+    }
+
+}
+
+
+/*ipad pro*/
+@media screen and (max-width: 1025px) {
+    input {
+        width: 80vw;
+        margin: 4% auto 0;
+    }
+
+    textarea.submit-form {
+        width: 80vw;
+        margin: 4% auto 0;
+    }
+
+    input[type=submit] {
+        height: 4vh;
+    }
+
+}
