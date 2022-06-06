@@ -7,8 +7,8 @@
 <body>
 <h4 use:reveal={{ delay: 50 }}>about us</h4>
 
-<p use:reveal={{ delay: 50 }}>Meet The Ensemble</p>
-<div use:reveal={{ delay: 50 }} class="about-us-grid">
+<p>Meet The Ensemble</p>
+<div class="about-us-grid">
 <img src={group_photo} alt="the blank experiment group photo. They are standing in front of a white wall and smiling at eachother while holding their instruments" class="group-photo" />
 <section class="group-bio">
     <p class="bio"><span class="tbe-podcast">The _____ Experiment</span> (pronounced The “Blank” Experiment) is an up and coming flexible instrumentation ensemble based in the Midwest. With over 30 commissions, this group is committed to expanding the repertoire for mixed chamber ensembles. Their mission is to commission music by a variety of composers in order to create high quality, but audibly approachable new music by performing outreach concerts for a variety of audiences in various locations. . This ensemble was originally founded in 2017 by Andrew Hosler (saxophones), Michelle Cusick (clarinets), and Natalie Pate (harp). The ____ Experiment quickly began collaborating with composers around the United States to create works for this new instrumentation. </p>
