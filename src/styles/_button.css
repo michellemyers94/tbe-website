@@ -1,0 +1,19 @@
+button {
+    background-color: rgba(250, 0, 200, .7);
+    height: 5vh;
+    width: 80vw;
+    border-radius: 10px;
+    font-family: bebas-neue, sans-serif;
+    font-size: 3vmin;
+    border-color: rgba(0, 0, 0, .5);
+    margin-top: 2%;
+}
+
+button:hover {
+    background-color: cyan;
+}
+
+.links {
+    text-align: center;
+    margin: 8% auto 0;
+}

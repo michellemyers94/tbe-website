@@ -9,9 +9,15 @@
 
 
 <body>
-<h4>Links</h4>
-<h1 use:reveal={{ delay: 50}}>Welcome!</h1>
+<h4>The _____ Experiment</h4>
+<div class="links">
+<button use:reveal={{ delay: 50}}>Welcome!</button>
+    <button use:reveal={{ delay: 250}}>Welcome!</button>
+    <button use:reveal={{ delay: 450}}>Welcome!</button>
+    <button use:reveal={{ delay: 550}}>Welcome!</button>
+    <button use:reveal={{ delay: 650}}>Welcome!</button>
 
+</div>
 
 
 
