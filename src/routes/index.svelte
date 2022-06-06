@@ -3,7 +3,7 @@
     import { reveal } from 'svelte-reveal';
 </script>
 
-<body>
+
 <header>
     <img src={logo} alt="tbe logo" class="main-logo" />
     <h1 use:reveal={{ delay: 50 }} class="homepage">The _____ Experiment</h1>
@@ -20,34 +20,34 @@
 </header>
 
 
-</body>
+
 
 <style>
-    body {
+    /*body {*/
 
-        background: url("/static/mobile-background.png") no-repeat center center fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
+    /*    background: url("/static/mobile-background.png") no-repeat center center fixed;*/
+    /*    -webkit-background-size: cover;*/
+    /*    -moz-background-size: cover;*/
+    /*    -o-background-size: cover;*/
 
-        background-size: cover;
-        height: 100%;
+    /*    background-size: cover;*/
+    /*    height: 100%;*/
 
 
-    }
+    /*}*/
 
-    @media only screen and (min-width: 1025px) {
-        body {
+    /*@media only screen and (min-width: 1025px) {*/
+    /*    body {*/
 
-            background: url("/static/desktop-background.png") no-repeat center center fixed;
-            -webkit-background-size: cover;
-            -moz-background-size: cover;
-            -o-background-size: cover;
+    /*        background: url("/static/desktop-background.png") no-repeat center center fixed;*/
+    /*        -webkit-background-size: cover;*/
+    /*        -moz-background-size: cover;*/
+    /*        -o-background-size: cover;*/
 
-            background-size: cover;
+    /*        background-size: cover;*/
 
-        }
-    }
+    /*    }*/
+    /*}*/
 
 
 

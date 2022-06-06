@@ -3,9 +3,9 @@
     import { reveal } from 'svelte-reveal';
 </script>
 
-<body>
+
 <h4 use:reveal={{ delay: 50 }}>Subscribe</h4>
-</body>
+
 
 <style>
 

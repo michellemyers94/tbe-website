@@ -1,4 +1,3 @@
-<body>
 
 <h4>Contact</h4>
 
@@ -7,4 +6,3 @@
 </div>
 
 
-</body>

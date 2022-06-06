@@ -3,11 +3,11 @@
  import { reveal } from 'svelte-reveal';
 </script>
 
-<body>
+
  <h4 use:reveal={{ delay: 50 }}>media &amp; repertoire</h4>
 
 
-</body>
+
 
 
 <style>

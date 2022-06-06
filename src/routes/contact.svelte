@@ -3,7 +3,7 @@
     import { reveal } from 'svelte-reveal';
 </script>
 
-<body>
+
 
 <h4 use:reveal={{ delay: 50 }}>Contact</h4>
 
@@ -21,4 +21,3 @@
     <input type="hidden" name="redirectTo" value="https://tbe-website.vercel.app/contact-success">
     <input type="submit" value="Submit" />
 </form>
-</body>
