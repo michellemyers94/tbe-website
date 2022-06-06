@@ -36,6 +36,21 @@ nav.grid {
 }
 
 
+.about-us-grid {
+    display: flex;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: auto;
+    align-items: center;
+}
+
+section.group-bio {
+    padding: 5%;
+
+}
+
+
+
+
 
 
 
@@ -108,6 +123,15 @@ h3 {
     text-shadow: black 2px 1px 8px ;
 }
 
+p {
+    font-size: 3vmin;
+}
+
+p.bio {
+    text-align: justify;
+    font-size: 2vmin;
+    margin-bottom: 2%;
+}
 
 
 .sub-header {
