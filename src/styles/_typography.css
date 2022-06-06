@@ -158,6 +158,13 @@ div.tagline {
         margin-top: 25%;
         font-size: 8vmin;
     }
+
+    .about-us-grid {
+        display: block;
+    }
+    p.bio {
+        font-size: 3vmin;
+    }
 }
 
 h4 {
@@ -199,6 +206,13 @@ h4.composer-bootcamp {
         margin-top: 50%;
         font-size: 9vw;
 
+    }
+
+    .about-us-grid {
+        display: block;
+    }
+    p.bio {
+        font-size: 4vmin;
     }
 
 }
