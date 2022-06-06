@@ -1,3 +1,7 @@
+<script>
+    import "../styles/_background.css"
+</script>
+
 <body>
 
 <h4>Contact</h4>
