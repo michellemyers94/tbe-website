@@ -1,12 +1,30 @@
 button {
     background-color: rgba(250, 0, 200, .7);
-    height: 5vh;
-    width: 80vw;
+    height: 6vh;
+    width: 50vw;
     border-radius: 10px;
     font-family: bebas-neue, sans-serif;
     font-size: 3vmin;
     border-color: rgba(0, 0, 0, .5);
     margin-top: 2%;
+}
+
+button a {
+    text-decoration: none;
+    color: black;
+
+}
+
+button.active {
+    background-color: cyan;
+}
+
+button.active:hover{
+    background-color: #BB86FC;
+}
+
+button a:hover {
+    color: white;
 }
 
 button:hover {
@@ -15,5 +33,52 @@ button:hover {
 
 .links {
     text-align: center;
-    margin: 8% auto 0;
+    margin: 4% auto 0;
+}
+
+.urls {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin: 2% auto 0;
+
+    height: 15%;
+    width: 15%;
+}
+.icon {
+    margin-left: 5%;
+}
+
+.urls a {
+    color: #fff;
+}
+
+
+
+@media only screen and (max-width: 1025px) {
+    button {
+        height: 5vh;
+        width: 80vw;
+    }
+
+    .links {
+        margin: 8% auto 0;
+    }
+
+    .urls {
+        height: 25%;
+        width: 25%;
+
+    }
+
+    .icon {
+        margin-left: 20%;
+    }
+}
+
+@media only screen and (max-width: 786px) {
+
+    .urls {
+        margin-top: 95%;
+    }
+
 }
