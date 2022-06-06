@@ -1,4 +1,5 @@
 <script>
+    import "../styles/_about-background.css"
     import group_photo from '../../static/about-us-group.jpg';
 </script>
 

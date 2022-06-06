@@ -1,3 +1,7 @@
+<script>
+ import "../styles/_background.css"
+</script>
+
 <body>
  <h4>media &amp; repertoire</h4>
 
@@ -6,6 +10,10 @@
 
 
 <style>
+ body {
+  background: #292828;
+  width: 100vw;
 
+ }
 
 </style>

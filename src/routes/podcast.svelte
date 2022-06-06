@@ -1,3 +1,7 @@
+<script>
+    import "../styles/_background.css"
+</script>
+
 <body>
 <h4>Conversations</h4>
 <p class="podcast">with <span class="tbe-podcast">the blank experiment</span></p>
@@ -8,6 +12,10 @@
 
 
 <style>
+    body {
+        background: #292828;
+        width: 100vw;
 
+    }
 
 </style>
