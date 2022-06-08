@@ -9,6 +9,73 @@
     margin-left: 5%;
 }
 
+
+.members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.members > .individual {
+    height: 30vmin;
+    width: 30vmin;
+    background-color: red;
+    margin: 5%;
+}
+
+.members > .individual:hover {
+        opacity: 50%;
+    transform: scale(110%);
+    transition-duration: 1s;
+}
+
+
+/*Michelle*/
+.members > .individual:first-child{
+    background: url("../../static/michelle-thumbnail.jpg") no-repeat center center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+}
+
+/*Drew*/
+.members > .individual:nth-child(2){
+    background: url("../../static/drew-thumbnail.jpg") no-repeat center center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+}
+
+/*Ava*/
+.members > .individual:nth-child(3){
+    background: url("../../static/ava-thumbnail.jpg") no-repeat center center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+}
+
+
+/*Maya*/
+.members > .individual:nth-child(4){
+    background: url("../../static/maya-thumbnail.jpg") no-repeat center center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+}
+
+
+/*Danielle*/
+.members > .individual:last-child {
+    background: url("../../static/danielle-thumbnail.jpg") no-repeat center center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+}
 @media only screen and (max-width: 1025px) {
 
     .main-logo {

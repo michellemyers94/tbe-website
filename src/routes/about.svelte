@@ -24,7 +24,31 @@
 
 </div>
 
+<h4 use:reveal={{ delay: 50 }}>Our Members</h4>
 
+<div class="members">
+    <div class="individual">
+        <p>Michelle Cusick</p>
+    </div>
+
+    <div class="individual">
+        <p>Drew Hosler</p>
+    </div>
+
+    <div class="individual">
+        <p>Ava Wirth</p>
+    </div>
+
+    <div class="individual">
+        <p>Maya Grossman</p>
+    </div>
+
+    <div class="individual">
+        <p>Danielle Kuntz</p>
+    </div>
+
+
+</div>
 
 
 <style>
