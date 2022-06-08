@@ -29,32 +29,32 @@
 <div id="members">
     <div class="individual">
         <p class="about-member">Michelle Cusick</p>
-        <a href="member/michelle"><p class="empty"> </p></a>
+        <a href="michelle"><p class="empty"> </p></a>
 
     </div>
 
 
     <div class="individual">
         <p class="about-member">Drew Hosler</p>
-        <a href="member/drew"><p class="empty"> </p></a>
+        <a href="drew"><p class="empty"> </p></a>
 
     </div>
 
     <div class="individual">
         <p class="about-member">Ava Wirth</p>
-        <a href="member/ava"><p class="empty"> </p></a>
+        <a href="ava"><p class="empty"> </p></a>
 
     </div>
 
 <div class="individual">
         <p class="about-member">Maya Grossman</p>
-        <a href="member/maya"><p class="empty"> </p></a>
+        <a href="maya"><p class="empty"> </p></a>
 
 </div>
 
     <div class="individual">
         <p class="about-member">Danielle Kuntz</p>
-        <a href="member/danielle"><p class="empty"> </p></a>
+        <a href="danielle"><p class="empty"> </p></a>
 
     </div>
 

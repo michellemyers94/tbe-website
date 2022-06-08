@@ -1,5 +1,5 @@
 <script>
-    import "../../styles/_background.css"
+    import "../styles/_background.css"
     import { reveal } from 'svelte-reveal';
 </script>
 
