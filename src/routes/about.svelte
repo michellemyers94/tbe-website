@@ -26,36 +26,36 @@
 
 <h4 use:reveal={{ delay: 50 }}>Our Members</h4>
 
-<div class="members">
+<div id="members">
     <div class="individual">
         <p class="about-member">Michelle Cusick</p>
-        <div class="member-info">creative director</div>
-        <div class="member-info">clarinets</div>
+        <a href="member/michelle"><p class="empty"> </p></a>
+
     </div>
 
 
     <div class="individual">
         <p class="about-member">Drew Hosler</p>
-        <div class="member-info">artistic director</div>
-        <div class="member-info">saxophones</div>
+        <a href="member/drew"><p class="empty"> </p></a>
+
     </div>
 
     <div class="individual">
         <p class="about-member">Ava Wirth</p>
-        <div class="member-info">financial director</div>
-        <div class="member-info">oboe (english horn)</div>
+        <a href="member/ava"><p class="empty"> </p></a>
+
     </div>
 
-    <div class="individual">
+<div class="individual">
         <p class="about-member">Maya Grossman</p>
-        <div class="member-info">communications director</div>
-        <div class="member-info">bassoons</div>
-    </div>
+        <a href="member/maya"><p class="empty"> </p></a>
+
+</div>
 
     <div class="individual">
         <p class="about-member">Danielle Kuntz</p>
-        <div class="member-info">marketing & social media director</div>
-        <div class="member-info">harp</div>
+        <a href="member/danielle"><p class="empty"> </p></a>
+
     </div>
 
 

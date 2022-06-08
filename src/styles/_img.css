@@ -9,6 +9,39 @@
     margin-left: 5%;
 }
 
+.individual-page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.individual-page-block {
+    background-color: #bd00ff;
+    height: 80%;
+    width: 70vmin;
+    margin: 5%;
+}
+
+.individual-page-block > p a {
+    /*text-decoration: none;*/
+    color: white;
+    font-style: italic;
+}
+
+.individual-page-block > p a:hover {
+    color: #00ffff;
+}
+
+.ava {
+    background: url("../../static/ava-thumbnail.jpg");
+}
+
+.individual-page-block:nth-child(2)
+{
+    background-color: rgba(250, 250, 250, .2);
+    color: white;
+
+}
 .member-info {
     margin-left: 2%;
     margin-top: 2%;
@@ -20,21 +53,49 @@ p.about-member {
     background-color: rgba(78, 106, 255, .5);
 
 }
-.members {
+p.member-bio {
+
+    text-align: justify;
+    padding: 5%;
+    font-size: 2.6vmin;
+    line-height: 120%;
+}
+
+p.empty {
+    height: 100%;
+}
+
+p.about-directory {
+
+    color: white;
+    margin-top: -4%;
+    margin-bottom: 10%;
+    font-size: 5vmin;
+    text-decoration: none;
+}
+p.about-directory a {
+    color: white;
+    text-decoration: none;
+}
+#members {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin-bottom: 4%;
+    margin-bottom: 10%;
 }
 
-.members > .individual {
-    height: 30vmin;
-    width: 30vmin;
+#members > .individual {
+    height: 50vmin;
+    width: 50vmin;
     background-color: red;
     margin: 5%;
 }
 
-.members > .individual:hover {
+#members > .individual a {
+    text-decoration: none;
+}
+
+#members > .individual:hover {
         opacity: 50%;
     transform: scale(110%);
     transition-duration: 1s;
@@ -42,16 +103,17 @@ p.about-member {
 
 
 /*Michelle*/
-.members > .individual:first-child{
+#members > .individual:first-child{
     background: url("../../static/michelle-thumbnail.jpg") no-repeat center center;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
     background-size: contain;
+
 }
 
 /*Drew*/
-.members > .individual:nth-child(2){
+#members > .individual:nth-child(2){
     background: url("../../static/drew-thumbnail.jpg") no-repeat center center;
     -webkit-background-size: contain;
     -moz-background-size: contain;
@@ -60,7 +122,7 @@ p.about-member {
 }
 
 /*Ava*/
-.members > .individual:nth-child(3){
+#members > .individual:nth-child(3){
     background: url("../../static/ava-thumbnail.jpg") no-repeat center center;
     -webkit-background-size: contain;
     -moz-background-size: contain;
@@ -70,17 +132,18 @@ p.about-member {
 
 
 /*Maya*/
-.members > .individual:nth-child(4){
+#members > .individual:nth-child(4){
     background: url("../../static/maya-thumbnail.jpg") no-repeat center center;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
     background-size: contain;
+
 }
 
 
 /*Danielle*/
-.members > .individual:last-child {
+#members > .individual:last-child {
     background: url("../../static/danielle-thumbnail.jpg") no-repeat center center;
     -webkit-background-size: contain;
     -moz-background-size: contain;
