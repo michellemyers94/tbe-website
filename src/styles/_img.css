@@ -9,11 +9,22 @@
     margin-left: 5%;
 }
 
+.member-info {
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 1.2vmin;
+}
+p.about-member {
+    text-align: left;
+    padding-left: 1%;
+    background-color: rgba(78, 106, 255, .5);
 
+}
 .members {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    margin-bottom: 4%;
 }
 
 .members > .individual {

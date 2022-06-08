@@ -28,23 +28,34 @@
 
 <div class="members">
     <div class="individual">
-        <p>Michelle Cusick</p>
+        <p class="about-member">Michelle Cusick</p>
+        <div class="member-info">creative director</div>
+        <div class="member-info">clarinets</div>
+    </div>
+
+
+    <div class="individual">
+        <p class="about-member">Drew Hosler</p>
+        <div class="member-info">artistic director</div>
+        <div class="member-info">saxophones</div>
     </div>
 
     <div class="individual">
-        <p>Drew Hosler</p>
+        <p class="about-member">Ava Wirth</p>
+        <div class="member-info">financial director</div>
+        <div class="member-info">oboe (english horn)</div>
     </div>
 
     <div class="individual">
-        <p>Ava Wirth</p>
+        <p class="about-member">Maya Grossman</p>
+        <div class="member-info">communications director</div>
+        <div class="member-info">bassoons</div>
     </div>
 
     <div class="individual">
-        <p>Maya Grossman</p>
-    </div>
-
-    <div class="individual">
-        <p>Danielle Kuntz</p>
+        <p class="about-member">Danielle Kuntz</p>
+        <div class="member-info">marketing & social media director</div>
+        <div class="member-info">harp</div>
     </div>
 
 
