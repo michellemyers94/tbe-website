@@ -7,6 +7,7 @@
 .group-photo {
     width: 40vw;
     margin-left: 5%;
+    margin-top: -25%;
 }
 
 .individual-page {
@@ -170,6 +171,7 @@ p.about-directory a {
     .group-photo {
         width: 90vw;
         text-align: center;
+        margin-top: 0;
 
     }
 }

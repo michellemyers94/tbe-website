@@ -1,5 +1,6 @@
 <script>
     import "../styles/_background.css"
+    import michelle_portrait from '../../static/michelle-portrait.png';
     import { reveal } from 'svelte-reveal';
 </script>
 
@@ -7,12 +8,12 @@
 
 <h4 use:reveal={{ delay: 50 }}>Michelle Cusick</h4>
 
-<div class="individual-page">
 
-    <div class="individual-page-block">IMAGE COMING SOON</div>
-    <div class="individual-page-block">
-        <p class="member-bio">
-            <span class="tbe-podcast">Michelle Cusick</span> (she/her) is a contemporary artist and new music activist based in the San Francisco Bay Area.
+
+    <div class="about-us-grid">
+        <img src={michelle_portrait} alt="the blank experiment group photo. They are standing in front of a white wall and smiling at eachother while holding their instruments" class="group-photo" />
+        <section class="group-bio">
+            <p class="member-bio"><span class="tbe-podcast">Michelle Cusick</span> (she/her) is a contemporary artist and new music activist based in the San Francisco Bay Area.
             Born in Flint, Michigan - Michelle started her artistic journey as a clarinet player where she went on to pursue her education in Music Performance on scholarship at Michigan State University.
             During her time as a student, she performed in several countries and music festivals, including the World Youth Wind Orchestra Project in Schladming, Austria, Fresno Summer Music Academy at California State University - Fresno, ClarinetFest in Madrid, Spain, a summer study abroad in Todi, Italy and participated in multiple Clarinetopia master classes. She also was an alto saxophonist in the Michigan State Spartan Marching Band, where she performed in the 2014 Rose Bowl and 2015 Cotton Bowl and served a year on the operations team.</p>
 
@@ -27,8 +28,7 @@
         <p class="member-bio">Michelle currently holds a Bachelor of Music in Music Performance from Michigan State University. Her primary clarinet teachers include Dr. Meghan Merciers and Dr. Guy Yehuda. She is also an alumna of the honorary band fraternity, Kappa Kappa Psi.</p>
 
 
+        </section>
     </div>
-</div>
-
 
 <a href="/about#members"><p class="about-directory">Back to Members</p></a>
