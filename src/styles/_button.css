@@ -32,6 +32,25 @@ button:hover {
     background-color: cyan;
 }
 
+button.press-kit {
+    text-align: center;
+    font-size: xx-large;
+    background: #BB86FC;
+    border-radius: 0px;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+button.press-kit:hover {
+    background-color: cyan;
+
+}
+@media only screen and (min-width: 1025px) {
+    button.press-kit {
+        margin-left: 25%;
+    }
+}
+
 .links {
     text-align: center;
     margin: 4% auto 0;
@@ -77,6 +96,8 @@ button:hover {
     .icon {
         margin-left: 20%;
     }
+
+
 }
 
 @media only screen and (max-width: 786px) {

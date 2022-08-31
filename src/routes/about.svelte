@@ -21,9 +21,15 @@
 
     <p class="bio">The members of The _____ Experiment are located in Ann Arbor, MI, Cleveland, OH, Chicago, IL, Wichita, KS, and San Francisco, CA. When not rehearsing, the members of this ensemble enjoy mountain biking, taking care of their pets and plants, and laughing at cheesy jokes about musicians.
 </section>
-
 </div>
 
+
+
+<a href="../../static/tbe-press-kit.pdf" target="_blank" download="The Blank Experiment Press Kit"><button class="press-kit">Download our press kit</button></a>
+
+
+
+<p> </p>
 <h4 use:reveal={{ delay: 50 }}>Our Members</h4>
 
 <div id="members">
