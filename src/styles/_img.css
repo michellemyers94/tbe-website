@@ -164,6 +164,7 @@ p.about-directory a {
 
     .group-photo {
         width: 90vw;
+        margin-top: 0;
     }
 }
 
