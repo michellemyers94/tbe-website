@@ -11,7 +11,7 @@
 
 
     <div class="about-us-grid">
-        <img src={michelle_portrait} alt="the blank experiment group photo. They are standing in front of a white wall and smiling at eachother while holding their instruments" class="group-photo" />
+        <img src={michelle_portrait} alt="the blank experiment group photo. They are standing in front of a white wall and smiling at eachother while holding their instruments" class="individual-photo" />
         <section class="group-bio">
             <p class="member-bio"><span class="tbe-podcast">Michelle Cusick</span> (she/her) is a contemporary artist and new music activist based in the San Francisco Bay Area.
             Born in Flint, Michigan - Michelle started her artistic journey as a clarinet player where she went on to pursue her education in Music Performance on scholarship at Michigan State University.

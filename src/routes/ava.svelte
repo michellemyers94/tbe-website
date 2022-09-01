@@ -1,5 +1,6 @@
 <script>
     import "../styles/_background.css"
+    import ava_portrait from '../../static/ava-portrait.png';
     import { reveal } from 'svelte-reveal';
 
 </script>
@@ -8,10 +9,9 @@
 
 <h4 use:reveal={{ delay: 50 }}>Ava Wirth</h4>
 
-<div class="individual-page">
-
-    <div class="individual-page-block">IMAGE COMING SOON</div>
-    <div class="individual-page-block">
+<div class="about-us-grid">
+    <img src={ava_portrait} alt="the blank experiment group photo. They are standing in front of a white wall and smiling at eachother while holding their instruments" class="individual-photo" />
+    <section class="group-bio">
         <p class="member-bio">
         <span class="tbe-podcast">Ava Wirth</span> is a Chicago based oboist with a focus on contemporary music. As a soloist, she has placed in competitions in the Midwest, including the 2019 Tuesday Musical Solo Competition Woodwind Division and the 2019 New Albany Symphony Orchestra (NASO) Concerto Competition Senior Division. She has performed as a soloist with the Bowling Green State University (BGSU) New Music Ensemble at the 2018 and 2019 BGSU New Music Festivals as well as performing the Legacy Concerto by Oscar Navarro with the NASO in 2019.</p>
 
@@ -19,7 +19,8 @@
 
         <p class="member-bio">In her time at DePaul University, Ava performed as principal oboe and english horn with the DePaul Symphony Orchestra and DePaul University Wind Ensemble. In her free time, Ava enjoys tending to her succulents and watching comedy movies. She has earned a Master’s in Music from DePaul University while studying with Alex Klein (2022) and a Bachelor's Degree in Music from Bowling Green State University while studying with Dr. Nermis Mieses (2020).</p>
 
-    </div>
+    </section>
 </div>
+
 
 <a href="/about#members"><p class="about-directory">Back to Members</p></a>
