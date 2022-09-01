@@ -171,11 +171,13 @@ p.about-directory a {
     .group-photo {
         width: 90vw;
 
+
     }
 
     .individual-photo {
         width: 90vw;
-        margin: 0;
+        margin-top: 0;
+
     }
 }
 
