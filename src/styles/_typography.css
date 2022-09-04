@@ -229,3 +229,12 @@ p {
 p.podcast {
     font-size: 5vmin;
 }
+
+p.member-bio a {
+    color: #00ffff;
+    font-style: italic;
+}
+
+p.member-bio a:hover {
+    color: #bd00ff;
+}

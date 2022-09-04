@@ -13,9 +13,12 @@
 .individual-photo {
     width: 30vw;
     margin-left: 5%;
-    margin-top: -25%;
+    /*margin-top: -25%;*/
 }
 
+.long-bio {
+    margin-top: -10%;
+}
 .individual-page {
     display: flex;
     flex-wrap: wrap;
@@ -63,7 +66,7 @@ p.about-member {
 p.member-bio {
 
     text-align: justify;
-    padding: 5%;
+    padding: 2%;
     font-size: 2.6vmin;
     line-height: 120%;
 }
@@ -178,6 +181,14 @@ p.about-directory a {
         width: 90vw;
         margin-top: 0;
 
+    }
+
+    .long-bio {
+        margin-top: 0;
+    }
+
+    p.member-bio {
+        font-size: 3.5vmin;
     }
 }
 

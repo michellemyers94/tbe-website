@@ -9,7 +9,7 @@
 <h4 use:reveal={{ delay: 50 }}>Drew Hosler</h4>
 
 <div class="about-us-grid">
-    <img src={drew_portrait} alt="the blank experiment group photo. They are standing in front of a white wall and smiling at eachother while holding their instruments" class="individual-photo" />
+    <img src={drew_portrait} alt="the blank experiment group photo. They are standing in front of a white wall and smiling at eachother while holding their instruments" class="individual-photo long-bio" />
     <section class="group-bio">
 
         <p class="member-bio">Hailed as the “the ideal collaborator for new music” and praised for his “beautiful tone and technique“ by <a href="https://brutalnewmusic.blogspot.com/2022/01/sarah-zahorodni-in-my-window-are-6-moons.html#more" target="_blank">Brutal New Music Review</a>, saxophonist and new music curator <span class="tbe-podcast">Drew Hosler</span> (he/him/his) is an advocate for contemporary music. Drew has commissioned, premiered, and collaborated on over 150 pieces by award-winning composers such as Andrew Mead, Jamie Leigh Sampson, David Heinick, Matthew Kennedy, and Marilyn Shrude. His upcoming debut solo album, <a href="https://andrewhosler.com/deltawaves" target="_blank">delta waves</a>, features thirteen world premiere recordings of 21st century works for the tenor saxophone.</p>
