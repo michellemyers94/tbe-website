@@ -203,4 +203,8 @@ p.about-directory a {
         width: 90vw;
         text-align: center;
     }
+
+    .poster-image {
+        width: 90vw;
+    }
 }
