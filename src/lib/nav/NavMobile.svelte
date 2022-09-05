@@ -1,4 +1,8 @@
+<script>
 
+
+let active =false;
+</script>
 
 
 <div class="nav-bar-mobile">
@@ -10,7 +14,27 @@
         <div></div>
         <div></div>
         <div></div>
-        <div class="menu-icon">☰</div>
+        <div class="menu-toggle">
+        <div class="menu-icon" on:click={()=> active = !active}>
+            {active? 'X' : '☰'}
+        </div>
+        </div>
     </nav>
+
+    <div class=:active>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Media</li>
+            <li>Subscribe</li>
+            <li>Contact Us</li>
+            <li>Moon Dances</li>
+        </ul>
+    </div>
 </div>
 
+<style>
+    .active {
+        left: 0px;
+    }
+</style>

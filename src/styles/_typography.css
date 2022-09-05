@@ -268,9 +268,16 @@ h4.composer-bootcamp {
     img.nav-logo {
         width: 10vmin;
     }
+
+    /*.menu-toggle:hover{*/
+    /*    cursor: pointer;*/
+    /*}*/
     .menu-icon {
-        font-size: 6vmin;
+        font-size: 7vmin;
+        font-stretch: expanded;
     }
+
+
 
 }
 
