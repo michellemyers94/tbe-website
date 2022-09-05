@@ -17,3 +17,40 @@ nav.grid {
 .nav-logo {
     display: none;
 }
+
+.nav-bar-mobile {
+    display: none;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+.link-logo {
+    display: block;
+    text-align: center;
+    width: 15%;
+    margin: 0 auto;
+    padding-top: 1%;
+
+}
+
+@media only screen and (max-width: 1025px) {
+
+    .link-logo {
+        padding-top: 4%;
+    }
+}
+
+@media only screen and (max-width: 786px) {
+    .link-logo {
+        width: 30%;
+    }
+
+}

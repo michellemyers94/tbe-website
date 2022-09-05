@@ -78,8 +78,10 @@ button.press-kit:hover {
 
 @media only screen and (max-width: 1024px) {
     button {
-        height: 5vh;
+        height: 7vh;
         width: 80vw;
+        border: none;
+
     }
 
     .links {
@@ -89,12 +91,15 @@ button.press-kit:hover {
     .urls {
         height: 35%;
         width: 35%;
-        margin-top: 30%;
+        margin-top: 15%;
 
     }
 
     .icon {
         margin-left: 20%;
+    }
+    button {
+        font-size: 4.5vmin;
     }
 
 
@@ -103,7 +108,11 @@ button.press-kit:hover {
 @media only screen and (max-width: 786px) {
 
     .urls {
-        margin-top: 60%;
+        margin-top: 15%;
+    }
+
+    button {
+        font-size: 5vmin;
     }
 
 }
