@@ -14,7 +14,7 @@
                         <div class="8"><a href="/media">media</a></div>
                                 <div class="9"><a href="https://facebook.us5.list-manage.com/subscribe/post?u=1b6151b7dbe8fc8f8f7d0df7a&id=cf4dfa7be9&f_id=00aadae6f0" target="_blank">subscribe</a></div>
                                     <div class="10"><a href="/contact">contact us</a></div>
-                <div class="11"><a href="/coming-soon" class="special">Moon Dances</a></div>
+                <div class="11"><a href="/moon-dances" class="special">Moon Dances</a></div>
             <div class="12"></div>
             <div class="13"></div>
             <div class="14"></div>
