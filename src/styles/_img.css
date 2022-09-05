@@ -201,6 +201,10 @@ p.about-directory a:hover {
     p.member-bio {
         font-size: 3.5vmin;
     }
+
+    .poster {
+        padding-bottom: 35%;
+    }
 }
 
 @media only screen and (max-width: 786px) {
@@ -214,6 +218,6 @@ p.about-directory a:hover {
     }
 
     p.about-directory {
-        padding-bottom: 15%;
+        padding-bottom: 25%;
     }
 }

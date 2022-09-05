@@ -65,3 +65,11 @@ table a:hover {
 table.repertoire a tr:nth-child(odd):hover {
     color: #00ffff;
 }
+
+@media screen and (max-width: 1025px) {
+
+    iframe {
+        width: 20vw;
+        height: 10vw;
+    }
+}
