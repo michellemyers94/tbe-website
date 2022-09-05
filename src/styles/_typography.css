@@ -292,6 +292,14 @@ h4.composer-bootcamp {
         padding: 10% 10% 0 0;
         font-size: 10vmin;
     }
+
+    aside a.special  {
+        color: #bd00ff;
+    }
+
+    aside a.special:hover {
+        color: cyan;
+    }
     aside a {
         text-decoration: none;
         color: black;
