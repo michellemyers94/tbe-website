@@ -286,6 +286,20 @@ h4.composer-bootcamp {
         padding: 20px;
         background-color: #fff;
     }
+
+    aside ul > li {
+        text-align: justify;
+        padding: 10% 10% 0 0;
+        font-size: 15vmin;
+    }
+    aside a {
+        text-decoration: none;
+        color: black;
+    }
+
+    aside a:hover {
+        color: #bd00ff;
+    }
     .active {
         left: 0px;
     }
