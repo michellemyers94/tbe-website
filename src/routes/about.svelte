@@ -2,6 +2,7 @@
     import "../styles/_about-background.css";
     import { reveal } from 'svelte-reveal';
     import group_photo from '../../static/about-us-group.jpg';
+    import press_kit from '../../static/tbe-press-kit.pdf'
 </script>
 
 <body>
@@ -26,7 +27,7 @@
 
 
 
-<a href="../../static/tbe-press-kit.pdf" target="_blank" download="The Blank Experiment Press Kit"><button class="press-kit">Download our press kit</button></a>
+<a href="{press_kit}" target="_blank"><button class="press-kit">Download our press kit</button></a>
 
 
 
