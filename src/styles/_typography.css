@@ -194,6 +194,9 @@ div.tagline {
     img.nav-icon {
         width: 2vw;
     }
+    .socials a {
+        padding: 3%;
+    }
 }
 
 h4 {
