@@ -76,4 +76,8 @@ table.repertoire a tr:nth-child(odd):hover {
     .about-directory {
         padding-bottom: 30%;
     }
+
+    form {
+        padding-bottom: 90%;
+    }
 }
