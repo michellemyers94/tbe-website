@@ -1,11 +1,11 @@
 <script>
-    import "../styles/_background.css"
+    // import "../styles/_background.css"
+    import "../styles/_about-background.css";
     import danielle_portrait from '../../static/danielle-portrait.png';
     import { reveal } from 'svelte-reveal';
 </script>
 
-
-
+<body class="members">
 <h4 use:reveal={{ delay: 50 }}>Danielle Kuntz</h4>
 
 
@@ -25,3 +25,5 @@
 
 <p class="about-directory">
     <a href="/about#members">Back to Members</a></p>
+
+</body>

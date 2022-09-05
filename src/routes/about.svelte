@@ -4,6 +4,7 @@
     import group_photo from '../../static/about-us-group.jpg';
 </script>
 
+<body>
 
 <h4 use:reveal={{ delay: 50 }}>about us</h4>
 
@@ -66,8 +67,12 @@
 
 
 </div>
+</body>
 
 
 <style>
-
+    body {
+        background: #292828;
+        height: 100%;
+    }
 </style>

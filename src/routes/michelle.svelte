@@ -3,7 +3,7 @@
     import michelle_portrait from '../../static/michelle-portrait.png';
     import { reveal } from 'svelte-reveal';
 </script>
-
+<body class="members">
 
 
 <h4 use:reveal={{ delay: 50 }}>Michelle Cusick</h4>
@@ -33,3 +33,5 @@
 
 <p class="about-directory">
     <a href="/about#members">Back to Members</a></p>
+
+</body>

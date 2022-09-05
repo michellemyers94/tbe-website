@@ -1,4 +1,9 @@
 body {
     background: #292828;
+    height: auto;
+}
+
+body.members {
+    background: #292828;
     height: 100%;
 }

@@ -1,11 +1,11 @@
 <script>
-    import "../styles/_background.css"
+    // import "../styles/_background.css"
+    import "../styles/_about-background.css";
     import drew_portrait from '../../static/drew-portrait.png';
     import { reveal } from 'svelte-reveal';
 </script>
 
-
-
+<body class="members">
 <h4 use:reveal={{ delay: 50 }}>Drew Hosler</h4>
 
 <div class="about-us-grid">
@@ -24,6 +24,7 @@
 
     </section>
 </div>
+</body>
 
 
 <p class="about-directory">

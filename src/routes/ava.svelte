@@ -1,12 +1,13 @@
 <script>
-    import "../styles/_background.css"
+    // import "../styles/_background.css"
+    import "../styles/_about-background.css";
     import ava_portrait from '../../static/ava-portrait.png';
     import { reveal } from 'svelte-reveal';
 
 </script>
 
 
-
+<body class="members">
 <h4 use:reveal={{ delay: 50 }}>Ava Wirth</h4>
 
 <div class="about-us-grid">
@@ -25,3 +26,5 @@
 
 <p class="about-directory">
     <a href="/about#members">Back to Members</a></p>
+
+</body>

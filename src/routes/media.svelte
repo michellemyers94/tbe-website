@@ -1,9 +1,10 @@
 <script>
- import "../styles/_background.css";
+ import "../styles/_about-background.css";
+ // import "../styles/_background.css";
  import { reveal } from 'svelte-reveal';
 </script>
 
-
+<body>
  <h4 use:reveal={{ delay: 50 }}>media &amp; repertoire</h4>
 
 <p class="podcast">Debut album <span class="tbe-podcast">"Conversations"</span> available on all major streaming platforms</p>
@@ -336,6 +337,7 @@
  </tr>
 </table>
 </div>
+</body>
 
 <style>
  body {
