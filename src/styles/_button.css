@@ -76,7 +76,7 @@ button.press-kit:hover {
 
 
 
-@media only screen and (max-width: 1025px) {
+@media only screen and (max-width: 1024px) {
     button {
         height: 5vh;
         width: 80vw;

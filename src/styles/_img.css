@@ -171,7 +171,7 @@ p.about-directory a:hover {
     -o-background-size: contain;
     background-size: contain;
 }
-@media only screen and (max-width: 1025px) {
+@media only screen and (max-width: 1024px) {
 
     .main-logo {
         display: block;

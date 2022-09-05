@@ -53,7 +53,7 @@ div.success-message {
 
 
 /*ipad pro*/
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 1024px) {
     input {
         width: 80vw;
         margin: 4% auto 0;
