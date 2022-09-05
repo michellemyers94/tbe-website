@@ -85,13 +85,17 @@ p.about-directory {
 
     color: white;
     margin-top: -4%;
-    margin-bottom: 20%;
+    padding-bottom: 5%;
     font-size: 5vmin;
     text-decoration: none;
 }
 p.about-directory a {
-    color: white;
-    text-decoration: none;
+    color: #00ffff;
+    text-decoration: underline;
+}
+
+p.about-directory a:hover {
+    color: #bd00ff;
 }
 #members {
     display: flex;
@@ -206,5 +210,9 @@ p.about-directory a {
 
     .poster-image {
         width: 90vw;
+    }
+
+    p.about-directory {
+        padding-bottom: 15%;
     }
 }

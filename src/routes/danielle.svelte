@@ -23,4 +23,5 @@
     </div>
 
 
-<a href="/about#members"><p class="about-directory">Back to Members</p></a>
+<p class="about-directory">
+    <a href="/about#members">Back to Members</a></p>
