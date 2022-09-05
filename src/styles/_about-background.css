@@ -7,3 +7,10 @@ body.members {
     background: #292828;
     height: 100%;
 }
+
+@media only screen and (max-width: 1025px) {
+    body.drew {
+        background: #292828;
+        height: 200%;
+    }
+}

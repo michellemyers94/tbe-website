@@ -5,7 +5,7 @@
     import { reveal } from 'svelte-reveal';
 </script>
 
-<body class="members">
+<body class="drew">
 <h4 use:reveal={{ delay: 50 }}>Drew Hosler</h4>
 
 <div class="about-us-grid">
