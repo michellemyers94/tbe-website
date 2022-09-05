@@ -19,9 +19,12 @@ let active =false;
             {active? 'X' : '☰'}
         </div>
         </div>
+
     </nav>
 
-    <div class=:active>
+
+
+    <aside class:active>
         <ul>
             <li>Home</li>
             <li>About</li>
@@ -30,11 +33,6 @@ let active =false;
             <li>Contact Us</li>
             <li>Moon Dances</li>
         </ul>
-    </div>
+    </aside>
 </div>
 
-<style>
-    .active {
-        left: 0px;
-    }
-</style>

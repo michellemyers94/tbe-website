@@ -277,6 +277,18 @@ h4.composer-bootcamp {
         font-stretch: expanded;
     }
 
+    aside {
+        position: absolute;
+        left: -500px;
+        transition: all .5s;
+        height: 100vh;
+        width: 100vw;
+        padding: 20px;
+        background-color: #fff;
+    }
+    .active {
+        left: 0px;
+    }
 
 
 }
