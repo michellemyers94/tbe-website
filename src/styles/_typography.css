@@ -19,6 +19,20 @@ nav.grid {
 
 }
 
+.nav-bar-mobile {
+    background: white;
+    color: #292828;
+
+}
+
+nav.grid-mobile {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-auto-rows: auto;
+    align-items: center;
+    background: white;
+}
+
 .tablet{
     display: grid;
     background:white;
@@ -247,6 +261,17 @@ h4.composer-bootcamp {
         font-size: 4vmin;
     }
 
+    .footer p {
+        font-size: 4vmin;
+    }
+
+    img.nav-logo {
+        width: 10vmin;
+    }
+    .menu-icon {
+        font-size: 6vmin;
+    }
+
 }
 
 span.tbe-podcast {
@@ -269,4 +294,8 @@ p.member-bio a {
 
 p.member-bio a:hover {
     color: #bd00ff;
+}
+
+.footer p {
+    font-size: 2vmin;
 }

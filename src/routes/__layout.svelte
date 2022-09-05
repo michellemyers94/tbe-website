@@ -18,9 +18,11 @@
 <Nav />
 </div>
 
-<!--<div class="nav-mobile">-->
-<!--    <NavMobile />-->
-<!--</div>-->
+
+
+<div class="nav-mobile">
+    <NavMobile />
+</div>
 
 
 
