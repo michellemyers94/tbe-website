@@ -114,7 +114,7 @@ span.grid-icons {
 
 img.nav-icon {
 
-    width: 1vw;
+    width: 1.2vw;
 }
 
 img.nav-icon:hover{
@@ -189,6 +189,10 @@ div.tagline {
     }
     p.bio {
         font-size: 3vmin;
+    }
+
+    img.nav-icon {
+        width: 2vw;
     }
 }
 
