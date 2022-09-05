@@ -1,3 +1,10 @@
+<script>
+    import facebook from '/static/facebook-icon.svg';
+    import instagram from '/static/instagram-icon.svg';
+    import youtube from '/static/youtube-icon.svg';
+    import twitter from '/static/twitter-icon.svg';
+    import tiktok from '/static/tiktok-icon.svg';
+</script>
 <header>
 
 
@@ -17,7 +24,7 @@
                 <div class="11"><a href="/moon-dances" class="special">Moon Dances</a></div>
             <div class="12"></div>
             <div class="13"></div>
-            <div class="14"></div>
+            <div class="socials"><a href="https://www.facebook.com/theblankexperiment" class="nav-link-icon" target="_blank"><img src={facebook} class="nav-icon" alt="facebook icon" /></a> <a href="https://instagram.com/theblankexperiment" target="_blank" class="nav-link-icon"><img src={instagram} class="nav-icon" alt="instagram icon"/></a> <a href="https://www.youtube.com/channel/UCyRGtoDqCPV-uHDXXxkPJ9A" class="nav-link-icon" target="_blank"><img src={youtube} class="nav-icon" alt="youtube icon"/></a> <a href="https://twitter.com/blankexperiment" class="nav-link-icon" target="_blank"><img src={twitter} class="nav-icon" alt="twitter icon"/></a> <a href="https://www.tiktok.com/@the_____experiment" class="nav-link-icon" target="_blank"><img src={tiktok} class="nav-icon" alt="tiktok icon"/></a></div>
             <div class="15"></div>
             <div class="16"></div>
 

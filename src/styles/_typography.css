@@ -100,8 +100,33 @@ nav a:hover {
 img.nav-logo {
     width: 4em;
 
+}
+.socials {
+    display: flex;
 
 }
+span.grid-icons {
+   width: 3vmin;
+
+
+
+}
+
+img.nav-icon {
+
+    width: 1vw;
+}
+
+img.nav-icon:hover{
+    transition: all .3s ease-in;
+    transform: scale(1.2);
+}
+
+.socials a {
+    padding: 5%;
+}
+
+
 header {
     text-align: center;
 
