@@ -18,7 +18,7 @@
 
 .poster {
     text-align: center;
-    padding-bottom: 20%;
+    padding-bottom: 5%;
 }
 
 
@@ -202,9 +202,9 @@ p.about-directory a:hover {
         font-size: 3.5vmin;
     }
 
-    .poster {
-        padding-bottom: 75%;
-    }
+    /*.poster {*/
+    /*    padding-bottom: 75%;*/
+    /*}*/
 }
 
 @media only screen and (max-width: 786px) {

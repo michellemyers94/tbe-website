@@ -21,7 +21,7 @@
                         <div class="8"><a href="/media">media</a></div>
                                 <div class="9"><a href="https://facebook.us5.list-manage.com/subscribe/post?u=1b6151b7dbe8fc8f8f7d0df7a&id=cf4dfa7be9&f_id=00aadae6f0" target="_blank">subscribe</a></div>
                                     <div class="10"><a href="/contact">contact us</a></div>
-                <div class="11"><a sveltekit:reload href="/moon-dances" class="special">Moon Dances</a></div>
+                <div class="11"><a sveltekit:reload href="/performances" class="special">performances</a></div>
             <div class="12"></div>
             <div class="13"></div>
             <div class="socials"><a href="https://www.facebook.com/theblankexperiment" class="nav-link-icon" target="_blank"><img src={facebook} class="nav-icon" alt="facebook icon" /></a> <a href="https://instagram.com/theblankexperiment" target="_blank" class="nav-link-icon"><img src={instagram} class="nav-icon" alt="instagram icon"/></a> <a href="https://www.youtube.com/channel/UCyRGtoDqCPV-uHDXXxkPJ9A" class="nav-link-icon" target="_blank"><img src={youtube} class="nav-icon" alt="youtube icon"/></a> <a href="https://twitter.com/blankexperiment" class="nav-link-icon" target="_blank"><img src={twitter} class="nav-icon" alt="twitter icon"/></a> <a href="https://www.tiktok.com/@the_____experiment" class="nav-link-icon" target="_blank"><img src={tiktok} class="nav-icon" alt="tiktok icon"/></a></div>

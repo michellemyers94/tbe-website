@@ -32,7 +32,7 @@ let active =false;
             <li><a href="/media" on:click={()=> active = !active}>media</a></li>
             <li><a href="https://facebook.us5.list-manage.com/subscribe/post?u=1b6151b7dbe8fc8f8f7d0df7a&id=cf4dfa7be9&f_id=00aadae6f0" target="_blank" on:click={()=> active = !active}>subscribe</a></li>
             <li><a href="/contact" on:click={()=> active = !active}>contact us</a></li>
-            <li><a href="/moon-dances" class="special" on:click={()=> active = !active}>Moon Dances</a></li>
+            <li><a href="/performances" class="special" on:click={()=> active = !active}>performances</a></li>
         </ul>
     </aside>
 </div>
