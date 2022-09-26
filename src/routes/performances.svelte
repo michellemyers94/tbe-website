@@ -19,7 +19,7 @@
 <p>7:30pm CDT</p>
 <p>Location: 4636 N Francisco Ave, Chicago, IL 60625</p>
 <p>The concert is free, but suggested donation is $10!</p>
-<a href="https://www.eventbrite.com/e/moon-dances-a-virtual-recital-tickets-421442384517" target="_blank"><button class="press-kit">RSVP here</button></a>
+<a href="https://docs.google.com/forms/d/17MS1zZ4SfxNU_VQZIxkW5eTH-dsDT0F9atNObQQxUJs/viewform?edit_requested=true" target="_blank"><button class="press-kit">RSVP here</button></a>
 <div class="poster">
 
 </body>
