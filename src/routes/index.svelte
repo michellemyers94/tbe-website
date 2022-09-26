@@ -19,6 +19,7 @@
 
 <div class="tagline">
 <h3 use:reveal={{ delay: 1000 }}>Pushing The Boundaries</h3>
+    <h5 use:reveal={{ delay: 1000 }}><a href="https://www.eventbrite.com/e/moon-dances-a-virtual-recital-tickets-421442384517" target="_blank"><button class="call-to-action">free tickets for moon dances</button></a></h5>
 
 </div>
 </header>
