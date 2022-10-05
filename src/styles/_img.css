@@ -171,6 +171,13 @@ p.about-directory a:hover {
     -o-background-size: contain;
     background-size: contain;
 }
+
+@media only screen and (min-width: 1025px) {
+    .poster-image {
+        width: 40vw;
+        margin-bottom: 20%;
+    }
+}
 @media only screen and (max-width: 1024px) {
 
     .main-logo {
@@ -202,6 +209,11 @@ p.about-directory a:hover {
         font-size: 3.5vmin;
     }
 
+    .poster-image {
+        width: 90vw;
+        margin-bottom: 40%;
+    }
+
     /*.poster {*/
     /*    padding-bottom: 75%;*/
     /*}*/
@@ -215,6 +227,7 @@ p.about-directory a:hover {
 
     .poster-image {
         width: 90vw;
+        margin-bottom: 40%;
     }
 
     p.about-directory {
