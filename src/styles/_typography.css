@@ -213,6 +213,11 @@ div.tagline {
     }
 }
 
+a.performance {
+    text-align: center;
+    align-content: center;
+}
+
 h4 {
     margin: 0;
     text-align: center;

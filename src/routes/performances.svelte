@@ -14,6 +14,7 @@
 <p>7pm EDT</p>
 <p>Location: 2418 Professor Ave, Cleveland OH 44113</p>
 <p>Tickets: $10</p>
+<p class="member-bio"><a href="https://www.eventbrite.com/e/the-blank-experiment-live-at-kaiser-gallery-tickets-658465948377" class="performance">(Get Tickets)</a></p>
 <a href="https://goo.gl/maps/AEZCsEKZZL7hang9A" target="_blank"><button class="press-kit">Open in Google Maps</button></a>
 <div class="poster">
     <img src={kaiser_poster} class="poster-image" />
