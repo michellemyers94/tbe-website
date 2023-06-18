@@ -21,7 +21,7 @@
 <a href="/"><img src={logo} alt="tbe logo" class="link-logo" /></a>
 <p>New Music Ensemble</p>
 <div class="links">
-<a href="https://theblankexperiment.com/performances" target="_blank"><button use:reveal={{ delay: 50}} class="active">See June Performances</button></a>
+<a href="https://theblankexperiment.com/performances" target="_blank"><button use:reveal={{ delay: 50}} class="active">See Performances</button></a>
     <a href="/" target="_blank"><button use:reveal={{ delay: 250}}>Visit our Website!</button></a>
     <a href="https://mailchi.mp/928f57c3d1f2/style-guide" target="_blank"><button use:reveal={{ delay: 450}}>Download our style guide</button></a>
     <a href="https://mailchi.mp/d0ece2b7da16/theblankexperiment" target="_blank"><button use:reveal={{ delay: 550}}>Subscribe to our email list</button></a>
