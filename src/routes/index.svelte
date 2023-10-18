@@ -19,7 +19,7 @@
 
 <div class="tagline">
 <h3 use:reveal={{ delay: 1000 }}>Pushing The Boundaries</h3>
-    <h5 use:reveal={{ delay: 1000 }}><a href="https://theblankexperiment.com/performances"><button class="call-to-action">See June Performances</button></a></h5>
+    <h5 use:reveal={{ delay: 1000 }}><a href="https://theblankexperiment.com/performances"><button class="call-to-action">Upcoming Performances</button></a></h5>
 
 </div>
 </header>
