@@ -8,7 +8,7 @@
 <body>
 
 <h4 use:reveal={{ delay: 50 }} class="composer-bootcamp">Virtual Recital Series: <em>the present...</em></h4>
-<p>June 27, 2023</p>
+<p>November 2, 2023</p>
 <p>7pm EDT</p>
 <p>Location: Online</p>
 <p>Tickets: $10 Suggested Donation</p>
