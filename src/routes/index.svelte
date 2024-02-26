@@ -2,6 +2,7 @@
     import "../styles/_homepage-background.css";
     import logo from '../../static/white-logo.png';
     import { reveal } from 'svelte-reveal';
+    import call_collab from '../../static/TBE_Call_for_Collaborators.pdf';
 
 </script>
 
@@ -19,7 +20,7 @@
 
 <div class="tagline">
 <h3 use:reveal={{ delay: 1000 }}>Pushing The Boundaries</h3>
-    <h5 use:reveal={{ delay: 1000 }}><a href="https://theblankexperiment.com/performances"><button class="call-to-action">Upcoming Performances</button></a></h5>
+    <h5 use:reveal={{ delay: 1000 }}><a href="{call_collab}"><button class="call-to-action">Call for Collaborators</button></a></h5>
 
 </div>
 </header>
